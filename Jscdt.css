@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: jsregular;
+    src: url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsregular.eot');
+    src: url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsregular.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsregular.woff') format('woff'), url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsregular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: jsbold;
+    src: url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsbold.eot');
+    src: url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsbold.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsbold.woff') format('woff'), url('https://cdn.rawgit.com/Modareb/Codatey/secure/fonts/Js/jsbold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
