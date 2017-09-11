@@ -66,6 +66,7 @@ text-align: center;
 
 #container {
   display: none;
+        text-align: center;
 }
 
 #link_container,
