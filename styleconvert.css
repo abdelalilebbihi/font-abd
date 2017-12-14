@@ -1,23 +1,27 @@
-.about_author {
-    display: none;
+.btn-group-vertical>.btn, .btn-group>.btn {
+    position: relative;
+    float: right;
 }
-.social-buttons {
-    display: none;
+#container {
+    text-align: center;
 }
-#Followers2{display:none!important;}
-#HTML4,#HTML201{display:none!important;}
-.inner_post_data,#topheader,.slider,.social-buttons.about_author,#latest_comments,.comments,#blog-pager,footer{display:none!important;}
-#main {margin-top: 10%;}
-
-  #postAD-top,#postAD-bottom,#HTML202{display:none;}
-#sidebar-wrapper {
-    display: none;
+.footer {
+    margin-top: 50px;
+    text-align: center;
 }
 
+h1{font-family:neo}
+h2{font-family:neo}
+p{font-family:neo}
+
+*{
+font-family:neo
+}
 
 body {
   padding-bottom: 50px;
   margin: 0;
+    font-family:neo
 }
 
 h1 {
@@ -31,6 +35,7 @@ h3 {
 
 #page_content {
   text-align: center;
+    font-family:neo;
 }
 
 form {
@@ -38,10 +43,12 @@ form {
   padding: 20px 0 0!important;
   display: inline-block!important;
   text-align: center;
+    font-family:neo;
 }
 
 .example {
   font-weight: normal;
+    font-family:neo
 }
 
 img {
@@ -52,6 +59,7 @@ img {
 
 .ex-text {
   color: #ccc;
+    font-family:neo
 }
 
 #driveID {
